@@ -25,7 +25,7 @@ Please register for the workshop through the FLoC registration [page](https://ww
 
 This workshop will be held on August 11–12, 2022, and colocated with the [34th International Conference on Computer-Aided Verification (CAV)][CAV]. The workshop is chaired by developers of [SMACK] and [SeaHorn]:
 
-* Michael Emmi, The Technion, Haifa, Israel
+* Michael Emmi, Amazon Web Services
 * Arie Gurfinkel, University of Waterloo
 * Temesghen Kahsai, Amazon Devices
 * Jorge Navas, Certora
