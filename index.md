@@ -27,9 +27,9 @@ This workshop will be held on August 11–12, 2022, and colocated with the [34th
 
 * Michael Emmi, The Technion, Haifa, Israel
 * Arie Gurfinkel, University of Waterloo
+* Temesghen Kahsai, Amazon Devices
 * Jorge Navas, Certora
 * Zvonimir Rakamaric, Amazon Web Services
-* Temesghen Kahsai, Amazon Devices
 
 [SMACK]: http://smackers.github.io
 [SeaHorn]: https://seahorn.github.io
