@@ -7,7 +7,7 @@ As further discussion topics, we will solicit talks and feedback on benchmarking
 
 ## Location
 
-Los Angeles, California, USA.
+The Technion, Haifa, Israel
 
 ## Program
 
@@ -19,17 +19,19 @@ TBD
 
 ## Registration
 
-Please register for the workshop through the CAV registration [page](http://i-cav.org/2020/registration).
+Please register for the workshop through the CAV registration [page](http://i-cav.org/2022/registration).
 
 
 ## Organization
 
-This workshop will be held between July 19–24, 2020, and colocated with the [32nd International Conference on Computer-Aided Verification (CAV)][CAV]. The workshop is chaired by developers of [SMACK] and [SeaHorn]:
+This workshop will be held in August 2022, and colocated with the [34th International Conference on Computer-Aided Verification (CAV)][CAV]. The workshop is chaired by developers of [SMACK] and [SeaHorn]:
 
-* Michael Emmi, SRI International
+* Michael Emmi, The Technion, Haifa, Israel
 * Arie Gurfinkel, University of Waterloo
-* Jorge Navas, SRI International
+* Jorge Navas, Certora
+* Zvonimir Rakamaric, Amazon Web Services
+* Temesghen Kahsai, Amazon Devices
 
 [SMACK]: http://smackers.github.io
 [SeaHorn]: https://seahorn.github.io
-[CAV]: http://i-cav.org/2020/
+[CAV]: http://i-cav.org/2022/
