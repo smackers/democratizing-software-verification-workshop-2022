@@ -23,7 +23,7 @@ Please register for the workshop through the FLoC registration [page](https://ww
 
 ## Organization
 
-This workshop will be held on August 11–12, 2022, and colocated with the [34th International Conference on Computer-Aided Verification (CAV)][CAV]. The workshop is chaired by developers of [SMACK] and [SeaHorn]:
+This workshop will be held on August 11, 2022, and colocated with the [34th International Conference on Computer-Aided Verification (CAV)][CAV]. The workshop is chaired by developers of [SMACK] and [SeaHorn]:
 
 * Michael Emmi, Amazon Web Services
 * Arie Gurfinkel, University of Waterloo
