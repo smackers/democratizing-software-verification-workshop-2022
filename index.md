@@ -142,11 +142,11 @@ specifications into a set of Horn clauses that can then be input to a Horn
 solver such as Eldarica or Z3/Spacer. TriCera mainly uses Eldarica for this
 purpose due to the tight integration of the tools and the theory of heaps.
 TriCera accepts most programs written in C11, and provides several other
-features useful for researchers: - the declaration and usage of uninterpreted
+features useful for researchers: the declaration and usage of uninterpreted
 predicates that can be seen as a form of inline assembler for Horn clauses,
-which simplify experimenting with various encodings, - automatic inference of
-loop invariants and function contracts, - parsing ACSL function contracts, -
-timing constraints in C programs (similar to UPPAAL timed automata), -
+which simplify experimenting with various encodings, automatic inference of
+loop invariants and function contracts, parsing ACSL function contracts,
+timing constraints in C programs (similar to UPPAAL timed automata),
 concurrency.
 
 **Short bio:**
@@ -229,7 +229,7 @@ and NVIDIA.
 Program synthesis is the problem of generating a program to satisfy a
 specification of user intent. Since these specifications are usually partial,
 this means searching a space of candidate programs for one that exhibits the
-desired behavior. A lion’s share of the work on program synthesis focuses on
+desired behavior. A lion's share of the work on program synthesis focuses on
 new ways to perform the search, but allowing the user to communicate intent
 remains a major challenge.
 
