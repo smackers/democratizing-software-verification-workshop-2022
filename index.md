@@ -151,7 +151,7 @@ concurrency.
 
 **Short bio:**
 Zafer Esen is a PhD student at Uppsala University under the supervision of
-Philipp Rümmer, Tjark Weber and Wang Yi. He is one of the main developers of
+Philipp Rummer, Tjark Weber and Wang Yi. He is one of the main developers of
 the Horn-based C model checker TriCera. Over the past four years he has also
 contributed to the Eldarica Horn and the Princess SMT solvers, mainly to
 support the theory of heaps.
@@ -238,7 +238,7 @@ specifications, and interaction model. In the domain of program synthesis, we
 narrow our focus by targeting a more specific category of users. Focusing on
 any subgroup of users allows making assumptions on both the input the user can
 generate for the synthesizer and the output they can consume. In the case of
-developers, concepts that are part of the programmer’s life such as code review
+developers, concepts that are part of the programmer's life such as code review
 and read-eval-print loops (REPL) can be leveraged for interactions with a
 synthesizer. The talk describes two synthesis-based tools that both leverage
 and cater to programmers as their users.
@@ -274,17 +274,17 @@ into tools for developers.
 
 **Abstract:**
 Ethereum Smart Contracts become a widely adopted technology to
-buildDecentralized Financial Applications (DeFis) and as such, they alreadyhold
-200 billion USDs. Consequently, bugs in smart contracts can beexploited by
-malicious users and can lead to losses at the scale ofmillions or even billions
-of USDs. To prevent such situations fromhappening, there has been a growing
-interest in developing scalableformal verification techniques for this domain.
-In this talk, we willspecifically focus on the architecture of the Certora
-VerificationTool, i.e. an industrial standard automated prover technology
-toverify smart contracts. Besides a brief overview of the overall
-toolarchitecture, we will focus mainly on the SMT-based subroutines,including
+build Decentralized Financial Applications (DeFis) and as such, they already hold
+200 billion USDs. Consequently, bugs in smart contracts can be exploited by
+malicious users and can lead to losses at the scale of millions or even billions
+of USDs. To prevent such situations from happening, there has been a growing
+interest in developing scalable formal verification techniques for this domain.
+In this talk, we will specifically focus on the architecture of the Certora
+Verification Tool, i.e. an industrial standard automated prover technology
+to verify smart contracts. Besides a brief overview of the overall
+tool architecture, we will focus mainly on the SMT-based subroutines,including
 features such as domain-specific CEGAR methodology,distributed solver-portfolio
-approach, or techniques to share andexploit information between individual SMT
+approach, or techniques to share and exploit information between individual SMT
 solvers.
 
 **Short bio:**
