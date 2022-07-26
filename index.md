@@ -41,16 +41,16 @@ Ullmann 300, The Technion, Haifa, Israel
 | Time  | Description |
 | ------------- | ------------- |
 | 8:30-9:00 | Coffee and Refreshments |
-| 9:00-9:45  | Elizabeth Polgreen (University of Edinburgh) and Yatin Manerkar (University of Michigan): *UCLID5: Multi-Modal Formal Modeling, Verification, and Synthesis* |
-| 9:45-10:30  | Kuldeep Meel (National University of Singapore): *Democratizing SAT Solving* |
+| 9:00-9:45  | [Elizabeth Polgreen](https://polgreen.github.io) (University of Edinburgh) and [Yatin Manerkar](https://web.eecs.umich.edu/~manerkar) (University of Michigan): *UCLID5: Multi-Modal Formal Modeling, Verification, and Synthesis* |
+| 9:45-10:30  | [Kuldeep Meel](http://www.kuldeepmeel.com) (National University of Singapore): *Democratizing SAT Solving* |
 | 10:30-11:00 | Coffee Break |
-| 11:00-11:45 | Zafer Esen (Uppsala University): *Eldarica and TriCera: Towards an Open Verification Framework* |
-| 11:45-12:30 | Gennaro Parlato (University of Molise): *C2C-Trans as a Design Methodology for Software Verification Tools* |
+| 11:00-11:45 | [Zafer Esen](https://www.it.uu.se/katalog/zafes790) (Uppsala University): *Eldarica and TriCera: Towards an Open Verification Framework* |
+| 11:45-12:30 | [Gennaro Parlato](https://gennaro-parlato.github.io) (University of Molise): *C2C-Trans as a Design Methodology for Software Verification Tools* |
 | 12:30-14:00 | Lunch Break |
-| 14:00-14:45 | Yakir Vizel (Technion): *Solving Constrained Horn Clauses Lazily and Incrementally* |
-| 14:45-15:30 | Hila Peleg (Technion): *Interaction Models vs. Formal Models: Synthesis Co-Design* |
+| 14:00-14:45 | [Yakir Vizel](http://www.cs.technion.ac.il/~yvizel/index.html) (Technion): *Solving Constrained Horn Clauses Lazily and Incrementally* |
+| 14:45-15:30 | [Hila Peleg](http://cs.technion.ac.il/~hilap) (Technion): *Interaction Models vs. Formal Models: Synthesis Co-Design* |
 | 15:30-16:00 | Coffee Break |
-| 16:00-16:45 | Jaroslav Bendik (Certora): *Formal Verification of Ethereum Smart Contracts: SMT-Based Approaches and Challenges* |
+| 16:00-16:45 | [Jaroslav Bendik](https://jar-ben.github.io) (Certora): *Formal Verification of Ethereum Smart Contracts: SMT-Based Approaches and Challenges* |
 | 16:45-17:30 | Matthias Schlaipfer (Amazon Web Services): *TBD* |
 | 18:00-19:30 | Workshop Dinner, Paid Event (Technion, Taub Terrace Floor 2) |
 
