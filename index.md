@@ -52,7 +52,7 @@ Ullmann 300, The Technion, Haifa, Israel
 | 15:30-16:00 | Coffee Break |
 | 16:00-16:45 | Jaroslav Bendik (Certora): *Formal Verification of Ethereum Smart Contracts: SMT-Based Approaches and Challenges* |
 | 16:45-17:30 | Matthias Schlaipfer (Amazon Web Services): *TBD* |
-| 18:00-19:30 | Workshop Dinner (Technion, Taub Terrace Floor 2) |
+| 18:00-19:30 | Workshop Dinner, Paid Event (Technion, Taub Terrace Floor 2) |
 
 
 ## Invited Speakers
