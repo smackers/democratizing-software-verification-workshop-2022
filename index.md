@@ -33,7 +33,7 @@ research ecosystem that can be leveraged by both industry and academia.
 
 ## Location
 
-The Technion, Haifa, Israel
+Ullmann 300, The Technion, Haifa, Israel
 
 
 ## Program
