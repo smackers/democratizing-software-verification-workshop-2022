@@ -297,13 +297,43 @@ University of Singapore and Max Planck Institute for Software Systems, Jaroslav
 switched to industry and nowadays is a core researcher and developer of the SMT
 prover technology at Certora.
 
-### Matthias Schlaipfer (Amazon Web Services): *TBD*
+### Matthias Schlaipfer (Amazon Web Services): *Achieving Verified Cloud Authorization*
 
 **Abstract:**
-TBD
+Amazon Web Services (AWS) [authorizes over 43 trillion requests per
+day](https://aws.amazon.com/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/).
+AWS has a custom language for specifying access control policies and a
+corresponding authorization engine. For each request, the authorization engine
+determines whether access should be granted or denied based on the relevant
+policies. In this talk, we describe our experience verifying the authorization
+engine in the context of a large, actively developed code base where many
+developers are not familiar with formal methods. We use Dafny, a
+verification-aware programming language, to specify authorization at a high
+level, implement it efficiently, and prove properties of the algorithm.
+
+Authorization executes on a JVM, so we decided to compile the Dafny
+implementation to Java. To earn trust with developers, we insisted at the start
+that any generated code should be reviewable by anyone familiar with Java.
+Dafny's built-in Java compiler does not generate readable code, so we wrote a
+custom compiler that generates idiomatic Java from our Dafny implementation.
+The Java code is reviewed in the same way as every other piece of code at
+Amazon.
+
+Beyond human code review of the generated code, we use a multi-layered approach
+to ensure the correctness of the custom compiler: We verify compiler passes in
+Dafny, but also use techniques such as standard software testing and fuzzing.
+Additionally, our compiler generates program annotations which let us leverage
+the capabilities of well-established software analysis tools such as
+CheckerFramework, to establish properties of the generated code such as
+null-correctness.
 
 **Short bio:**
-TBD
+Matthias Schlaipfer is an Applied Scientist at AWS in Berlin where he works on
+formal verification of authorization and how to integrate automated reasoning
+tools such as Dafny into traditional software engineering workflows. Before
+joining Amazon he was a Project Assistant at TU Wien where he worked on
+proof-based program synthesis.
+
 
 ## Registration
 
